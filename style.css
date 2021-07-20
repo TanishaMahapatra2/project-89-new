@@ -1,0 +1,47 @@
+body {
+    background-image: url("https://cutewallpaper.org/21/free-gradient-background-images/Best-Gradient-Background-Stock-Videos-and-Royalty-Free-.jpg");
+background-repeat:no-repeat;
+background-size:100%;
+}
+
+.div1,.div2
+{
+background-color:rgb(136, 255, 0);
+}
+
+#login
+{
+color:rgb(58, 36, 204);
+width:200px;
+height:40px;
+font-size:15px;
+background-color: turquoise;
+border-style: ridge;
+border-width:3px;
+border-color:rgb(141, 140, 153);
+}
+
+#player1_id, #player2_id
+{
+    width:600px;
+    height:30px;
+}
+
+.div1,.div2
+{
+width:75%;
+height:25%;
+border-radius:10px;
+}
+
+h1
+{
+    color:gold;
+}
+
+
+
+
+
+        
+        
